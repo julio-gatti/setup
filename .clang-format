@@ -3,7 +3,7 @@ BasedOnStyle: LLVM
 AccessModifierOffset: -4
 AllowShortFunctionsOnASingleLine: Empty
 BreakBeforeBraces: Stroustrup
-ColumnLimit: 80
+#ColumnLimit: 80
 IndentWidth: 4
 TabWidth: 4
 UseTab: ForContinuationAndIndentation
