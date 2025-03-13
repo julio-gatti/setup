@@ -1,5 +1,7 @@
 apt update
 
+snap install vlc
+
 apt install build-essential clang-format cmake
 
 apt install libsdl2-dev
