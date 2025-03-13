@@ -11,6 +11,8 @@ gsettings set org.gnome.desktop.peripherals.mouse accel-profile flat
 ## Media
 sudo snap install vlc
 
+sudo apt install libreoffice
+
 ## Building
 sudo apt install build-essential clang-format cmake
 
