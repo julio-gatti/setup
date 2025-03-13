@@ -30,3 +30,6 @@ sudo apt-get install slade
 
 ## Disable Mouse Acceleration
 gsettings set org.gnome.desktop.peripherals.mouse accel-profile flat
+
+## Visual Studio Code
+sudo snap install code --classic
