@@ -13,8 +13,10 @@ sudo snap install vlc
 
 sudo apt install libreoffice
 
+sudo snap install discord
+
 ## Building
-sudo apt install build-essential clang-format cmake
+sudo apt install build-essential clang-format cmake git
 
 ## Development Libraries
 sudo apt install libsdl2-dev libglfw3-dev libopenal-dev libfltk1.3-dev libassimp-dev
