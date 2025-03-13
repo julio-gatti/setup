@@ -14,6 +14,7 @@ sudo apt install libsdl2-dev libglfw3-dev libopenal-dev
 ##
 sudo snap install blender --classic
 sudo apt install gimp
+sudo snap install trenchbroom
 
 ## Games
 sudo snap install steam
