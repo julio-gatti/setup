@@ -28,8 +28,8 @@ sudo snap install trenchbroom
 sudo snap install audacity
 
 ## Games
-sudo snap install steam
-sudo apt install assaultcube urban-terror quake2 quake3 xonotic darkplaces
+sudo snap install steam urban-terror xonotic
+sudo apt install assaultcube quake2 quake3 darkplaces
 
 ## ZIP Editing
 ## https://slade.mancubus.net/index.php?page=wiki&wikipage=Installation
