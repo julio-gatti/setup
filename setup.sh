@@ -21,7 +21,7 @@ sudo snap install audacity
 
 ## Games
 sudo snap install steam
-sudo apt install assaultcube urban-terror quake2 quake3
+sudo apt install assaultcube urban-terror quake2 quake3 xonotic
 
 ## ZIP Editing
 ## https://slade.mancubus.net/index.php?page=wiki&wikipage=Installation
