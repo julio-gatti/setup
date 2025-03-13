@@ -4,6 +4,6 @@ apt install build-essential clang-format cmake
 
 apt install libsdl2-dev
 
-apt install blender
+snap install blender --classic
 
 apt install quake2 quake3
