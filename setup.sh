@@ -1,19 +1,19 @@
 # Setup
 
-apt update
+sudo apt update
 
 ## Media
-snap install vlc
+sudo snap install vlc
 
 ##
-apt install build-essential clang-format cmake
+sudo apt install build-essential clang-format cmake
 
 ## Development Libraries
-apt install libsdl2-dev libglfw3-dev libopenal-dev
+sudo apt install libsdl2-dev libglfw3-dev libopenal-dev
 
 ##
-snap install blender --classic
+sudo snap install blender --classic
 
 ## Games
-snap install steam
-apt install quake2 quake3
+sudo snap install steam
+sudo apt install quake2 quake3
