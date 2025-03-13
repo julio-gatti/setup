@@ -9,7 +9,7 @@ snap install vlc
 apt install build-essential clang-format cmake
 
 ## Development Libraries
-apt install libsdl2-dev
+apt install libsdl2-dev libglfw3-dev libopenal-dev
 
 ##
 snap install blender --classic
