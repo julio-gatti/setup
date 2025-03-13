@@ -1,5 +1,7 @@
 # Setup
 
+firefox https://www.youtube.com/watch?v=Qw2Gsb0JmzI
+
 sudo apt update
 
 ## Media
