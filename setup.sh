@@ -13,6 +13,7 @@ sudo apt install libsdl2-dev libglfw3-dev libopenal-dev
 
 ##
 sudo snap install blender --classic
+sudo apt install gimp
 
 ## Games
 sudo snap install steam
