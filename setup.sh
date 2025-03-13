@@ -27,3 +27,6 @@ sudo apt install assaultcube urban-terror quake2 quake3 xonotic darkplaces
 ## https://slade.mancubus.net/index.php?page=wiki&wikipage=Installation
 sudo wget -P /etc/apt/sources.list.d https://debian.drdteam.org/drdteam-$(dpkg --print-architecture).sources
 sudo apt-get install slade
+
+## Disable Mouse Acceleration
+gsettings set org.gnome.desktop.peripherals.mouse accel-profile flat
