@@ -33,6 +33,7 @@ sudo snap install audacity
 sudo snap install steam urban-terror xonotic
 sudo apt install assaultcube quake2 quake3 darkplaces
 sudo apt install cube2 cube-data
+sudo snap install melonds
 
 ## ZIP Editing
 ## https://slade.mancubus.net/index.php?page=wiki&wikipage=Installation
