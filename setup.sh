@@ -21,7 +21,7 @@ sudo snap install audacity
 
 ## Games
 sudo snap install steam
-sudo apt install quake2 quake3
+sudo apt install assaultcube quake2 quake3
 
 ## ZIP Editing
 ## https://slade.mancubus.net/index.php?page=wiki&wikipage=Installation
