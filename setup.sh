@@ -5,7 +5,7 @@ sudo apt update
 ## Media
 sudo snap install vlc
 
-##
+## Building
 sudo apt install build-essential clang-format cmake
 
 ## Development Libraries
