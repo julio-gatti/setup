@@ -19,3 +19,7 @@ sudo snap install trenchbroom
 ## Games
 sudo snap install steam
 sudo apt install quake2 quake3
+
+## https://slade.mancubus.net/index.php?page=wiki&wikipage=Installation
+sudo wget -P /etc/apt/sources.list.d https://debian.drdteam.org/drdteam-$(dpkg --print-architecture).sources
+sudo apt-get install slade
