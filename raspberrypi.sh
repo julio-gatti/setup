@@ -9,7 +9,8 @@ sudo apt install libreoffice
 
 ## Editing
 sudo apt install gimp
-#sudo apt install blender # requires OpenGL 3.3 :(
+
+## TODO Blender 2.79 supports OpenGL 2.1
 
 ## Building
 sudo apt install build-essential clang-format cmake git
