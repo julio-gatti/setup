@@ -32,7 +32,7 @@ sudo snap install audacity
 ## Games
 sudo snap install steam
 sudo snap install urban-terror xonotic
-sudo apt install assaultcube quake2 quake3 darkplaces
+sudo apt install assaultcube chocolate-doom quake2 quake3 darkplaces
 sudo apt install cube2 cube-data
 sudo snap install melonds
 sudo snap install mupen64plus-gui
