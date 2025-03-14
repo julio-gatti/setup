@@ -13,3 +13,5 @@
 ### Terminal
 
 TAB either completes a command (when there is no ambiquity) or shows the available completions for it. It does not modify the input when there is ambiquity.
+
+`ls -a` prints all (non-hidden and hidden) files.
