@@ -14,6 +14,8 @@
 
 ### Terminal
 
+The terminal runs a program called `bash`.
+
 Required arguments of commands are enclosed in `<>`, and optional arguments in `[]`.
 
 The TAB key either completes a command (when there is no ambiquity) or shows the available completions for it. It does not modify the input buffer when there is ambiquity.
