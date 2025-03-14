@@ -46,4 +46,4 @@ A newline or `;` separates commands from eachother.
 The current working directory could be seen as a potentially dangerous variable that shouldn't be relied upon too much.
 
 Some commands (like `cd` and `pwd`) are built-in to the terminals interpreter (BASH) itself (because it is a program, has state, and has the concept of a working directory, etc.),
-but external commands are written as programs which are in the `/bin` directory.
+but external commands are written as programs, some of which binary executables are in the `/bin` directory.
