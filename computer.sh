@@ -1,13 +1,13 @@
 # Ubuntu Setup
 
-sudo apt update
-
 ## Generate Quake home
 mkdir ~/materials
 mkdir ~/models
 mkdir ~/sound
 mkdir ~/sprites
 mkdir ~/textures
+
+sudo apt update
 
 ## Dark Theme
 gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
