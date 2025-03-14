@@ -8,7 +8,7 @@
 
 `~` at the end of a filename indicates a backup file.
 
-`/` at the beginning of a path refers to the root directory.
+`/` at the beginning of a path refers to the root directory of the operating system.
 
 `~` as a directory path refers to the users home directory, which is `/home/username`.
 
