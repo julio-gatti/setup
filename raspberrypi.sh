@@ -1,6 +1,9 @@
-# Raspberry Pi (Debian/Raspbian) Setup
+# Raspberry Pi 3 (Debian/Raspbian) Setup
 
 sudo apt update
+
+## Terminal Emulator
+sudo apt install lxterminal
 
 ## File Manager
 sudo apt install pcmanfm
