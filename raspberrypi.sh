@@ -15,6 +15,9 @@ sudo apt install gimp
 
 ## TODO Blender 2.79 supports OpenGL 2.1
 
+## Visual Studio Code is slow
+sudo apt install geany
+
 ## Building
 sudo apt install build-essential clang-format cmake git
 
