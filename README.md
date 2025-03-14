@@ -4,7 +4,7 @@
 
 ### Terminal
 
-TAB either completes a command (when there is no ambiquity) or shows the available completions for it.
+TAB either completes a command (when there is no ambiquity) or shows the available completions for it. It does not modify the input when there is ambiquity.
 
 ### Filesystem
 
