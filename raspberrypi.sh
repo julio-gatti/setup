@@ -22,4 +22,4 @@ sudo apt install build-essential clang-format cmake git
 sudo apt install libsdl2-dev libglfw3-dev libopenal-dev libfltk1.3-dev libassimp-dev
 
 ## Games
-sudo apt install assaultcube quake2 quake3 darkplaces
+sudo apt install assaultcube chocolate-doom quake2 quake3 darkplaces
