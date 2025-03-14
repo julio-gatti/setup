@@ -1,5 +1,12 @@
 # Raspberry Pi 3 (Debian/Raspbian) Setup
 
+## Generate Quake home
+mkdir ~/materials
+mkdir ~/models
+mkdir ~/sound
+mkdir ~/sprites
+mkdir ~/textures
+
 sudo apt update
 
 ## Terminal Emulator
