@@ -16,9 +16,10 @@
 
 Required arguments of commands are enclosed in `<>`, and optional arguments in `[]`.
 
-TAB either completes a command (when there is no ambiquity) or shows the available completions for it. It does not modify the input buffer when there is ambiquity.
+The TAB key either completes a command (when there is no ambiquity) or shows the available completions for it. It does not modify the input buffer when there is ambiquity.
 
-ENTER submits the input buffer as a command. Your input history is written to `~/.bash_history`. The up and down arrow keys browse that history through the input buffer.
+The ENTER key submits the input buffer as a command for the interpreter to interpret.
+Your input history is written to `~/.bash_history`. The up and down arrow keys browse that history through the input buffer.
 
 `clear` clears the terminals output history. It does not clear the input history.
 
@@ -41,6 +42,8 @@ To get information about how a command is to be used, try `<command> --help`.
 A newline or `;` separates commands from eachother.
 
 #### Trivia
+
+The current working directory could be seen as a potentially dangerous variable.
 
 Some commands (like `cd` and `pwd`) are built-in to the terminals interpreter (BASH) itself (because it is a program, has state, and has the concept of a working directory, etc.),
 but external commands are written as programs which are in the `/bin` directory.
