@@ -29,7 +29,7 @@ sudo apt install build-essential cmake git
 sudo apt install clang-format
 
 ## Programming - Documentation
-sudo apt install doxygen
+sudo apt install doxygen doxygen-gui
 
 ## Development Libraries
 sudo apt install libsdl2-dev libglfw3-dev libopenal-dev libfltk1.3-dev libassimp-dev
