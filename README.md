@@ -2,10 +2,6 @@
 
 ## UNIX
 
-### Terminal
-
-TAB either completes a command (when there is no ambiquity) or shows the available completions for it. It does not modify the input when there is ambiquity.
-
 ### Filesystem
 
 `.` at the beginning of a filename indicates a hidden file.
@@ -13,3 +9,7 @@ TAB either completes a command (when there is no ambiquity) or shows the availab
 `~` at the end of a filename indicates a backup file.
 
 `~` as a directory path refers to the users home directory, which is `/home/username`.
+
+### Terminal
+
+TAB either completes a command (when there is no ambiquity) or shows the available completions for it. It does not modify the input when there is ambiquity.
