@@ -18,8 +18,10 @@ gsettings set org.gnome.desktop.peripherals.mouse accel-profile flat
 ## Media
 sudo snap install vlc
 
+## LibreOffice
 sudo apt install libreoffice
 
+## Discord
 sudo snap install discord
 
 ## Building Programs
