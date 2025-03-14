@@ -23,7 +23,7 @@ sudo apt install libreoffice
 sudo snap install discord
 
 ## Building
-sudo apt install build-essential clang-format cmake git
+sudo apt install build-essential clang-format cmake git doxygen
 
 ## Development Libraries
 sudo apt install libsdl2-dev libglfw3-dev libopenal-dev libfltk1.3-dev libassimp-dev
