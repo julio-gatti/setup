@@ -12,7 +12,7 @@ sudo apt update
 ## Dark Theme
 gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
 
-## Disable Mouse Acceleration
+## Disabling Mouse Acceleration
 gsettings set org.gnome.desktop.peripherals.mouse accel-profile flat
 
 ## Media
