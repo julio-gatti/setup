@@ -39,7 +39,15 @@ Command arguments are separated by spaces.
 
 `ls -a` prints all (non-hidden and hidden) files in the current working directory.
 
+`mkdir <name>` can be used to create directories.
+
+`cp <existing file> <new file>` can be used to copy (copy and paste) files.
+
+`mv <existing file> <new file>` can be used to move (cut and paste) files.
+
 `cat <file>` can be used to read files.
+
+`>>` as an argument followed by a filename redirects a programs output to that file. It should write UTF-8.
 
 To get information about how a command is to be used, try `<command> --help`.
 
