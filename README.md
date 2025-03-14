@@ -39,6 +39,8 @@ Command arguments are separated by spaces.
 
 `ls -a` prints all (non-hidden and hidden) files in the current working directory.
 
+`cat <file>` can be used to read files.
+
 To get information about how a command is to be used, try `<command> --help`.
 
 A newline or `;` separates commands from eachother.
