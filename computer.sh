@@ -49,6 +49,7 @@ sudo snap install steam
 sudo snap install urban-terror xonotic
 sudo apt install assaultcube chocolate-doom quake2 quake3 darkplaces
 sudo apt install cube2 cube2-data
+sudo snap install minetest
 
 ## Emulators
 sudo snap install melonds
