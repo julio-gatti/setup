@@ -26,7 +26,7 @@ sudo apt install libreoffice
 sudo snap install discord
 
 ## Building Programs
-sudo apt install build-essential cmake git
+sudo apt install build-essential cmake git scons
 
 ## Programming - Formatting
 sudo apt install clang-format
