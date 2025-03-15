@@ -1,6 +1,7 @@
 # Raspberry Pi 3 (Debian/Raspbian) Setup
 
 ## Generate Quake home
+mkdir ~/maps
 mkdir ~/materials
 mkdir ~/models
 mkdir ~/sound
