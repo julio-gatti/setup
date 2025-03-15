@@ -38,13 +38,18 @@ sudo apt install doxygen doxygen-gui
 sudo apt install libsdl2-dev libglfw3-dev libopenal-dev libfltk1.3-dev
 sudo apt install libassimp-dev libgl1-mesa-dev libcurl4-openssl-dev
 
+## Files
+sudo apt install gnome-model-thumbnailer
+
 ## Editing
-sudo snap install blender --classic
 sudo apt install gimp
+sudo snap install blender --classic
+sudo apt install mm3d
 sudo snap install trenchbroom
 
 ## Audio Editing
 sudo snap install audacity
+sudo apt install tutka
 
 ## Games
 sudo snap install steam
