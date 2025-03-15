@@ -1,6 +1,7 @@
 # Ubuntu Setup
 
 ## Generate Quake home
+mkdir ~/maps
 mkdir ~/materials
 mkdir ~/models
 mkdir ~/sound
