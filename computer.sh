@@ -59,7 +59,7 @@ sudo snap install melonds
 sudo snap install mupen64plus-gui
 sudo apt install dolphin-emu
 
-## ZIP Editing
+## Quake 2 PAK and Quake 3 PK3 (ZIP) Editing
 ## https://slade.mancubus.net/index.php?page=wiki&wikipage=Installation
 sudo wget -P /etc/apt/sources.list.d https://debian.drdteam.org/drdteam-$(dpkg --print-architecture).sources
 sudo apt-get install slade
