@@ -34,7 +34,7 @@ sudo apt install clang-format
 sudo apt install doxygen doxygen-gui
 
 ## Development Libraries
-sudo apt install libsdl2-dev libglfw3-dev libopenal-dev libfltk1.3-dev libassimp-dev
+sudo apt install libsdl2-dev libglfw3-dev libopenal-dev libfltk1.3-dev libassimp-dev libgl1-mesa-dev libcurl4-openssl-dev
 
 ## Editing
 sudo snap install blender --classic
